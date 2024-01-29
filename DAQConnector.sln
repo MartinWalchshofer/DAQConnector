@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34202.233
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DAQConnector", "DAQConnector\DAQConnector.csproj", "{18EC8DD3-8218-4CAF-B4E1-F24E60F19F75}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DAQConnectorTester", "DAQConnectorTester\DAQConnectorTester.csproj", "{4506922A-C801-4A1F-A51E-3BD88782004D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{18EC8DD3-8218-4CAF-B4E1-F24E60F19F75}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{18EC8DD3-8218-4CAF-B4E1-F24E60F19F75}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{18EC8DD3-8218-4CAF-B4E1-F24E60F19F75}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{18EC8DD3-8218-4CAF-B4E1-F24E60F19F75}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4506922A-C801-4A1F-A51E-3BD88782004D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4506922A-C801-4A1F-A51E-3BD88782004D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4506922A-C801-4A1F-A51E-3BD88782004D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4506922A-C801-4A1F-A51E-3BD88782004D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D5C4FCFE-BFC5-44F5-9CB3-4684CB3F7848}
+	EndGlobalSection
+EndGlobal
