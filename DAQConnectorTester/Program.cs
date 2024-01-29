@@ -68,7 +68,7 @@ namespace DAQConnectorTester
                 Console.WriteLine("Invalid data received.");
             
             if (sender != null && e != null)
-                Console.WriteLine("Device: {0} / Data: [{1}]", sender.ToString(), string.Join(",", e));
+                Console.WriteLine("Device: {0} \t Data: [{1}]", sender.ToString(), string.Join(",", e));
         }
     }
 }
