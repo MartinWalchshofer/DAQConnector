@@ -134,7 +134,7 @@ namespace DAQConnector
             while (_acquisitionThreadRunning)
             {
                 _t += dTMs;
-                y = Math.Sin(_t * 2 * Math.PI * _samplingRateHz) * _signalAmplitude;
+                y = Math.Sin(_t * 2 * Math.PI * _signalFrequencyHz) * _signalAmplitude;
                 OnDataAvailable(_deviceName, new double[1] {y});
                 Thread.Sleep((int)(dTMs * 1000));
             }
