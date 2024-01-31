@@ -7,3 +7,7 @@ Implement the interface IDAQ for your own devices. The DAQSimulator shows how to
 ## Example: DAQConnectorTester
 This example shows how to receive data from multiple devices with different samplingRates, signal frequencies.<br/><br/>
 ![alt text](https://raw.githubusercontent.com/MartinWalchshofer/DAQConnector/main/DAQConnectorTester.png "DAQConnectorTester")
+
+## Example: DAQConnectorUnityTester
+This example shows how to receive data from multiple devices with different samplingRates, signal frequencies in Unity.<br/><br/>
+![alt text](https://raw.githubusercontent.com/MartinWalchshofer/DAQConnector/main/DAQConnectorTesterUnity.png "DAQConnectorTesterUnity")
