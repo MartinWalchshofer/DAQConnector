@@ -13,9 +13,9 @@ This example shows how to receive data from multiple devices with different samp
 ![alt text](https://raw.githubusercontent.com/MartinWalchshofer/DAQConnector/main/DAQConnectorTesterUnity.png "DAQConnectorTesterUnity")
 
 ## Prerequisites
-Visual Studio 2022
-.NET Framework 4.8
-Unity 2022.3.11f1
+- Visual Studio 2022
+- .NET Framework 4.8
+- Unity 2022.3.11f1
 
 ## How to build 'DAQConnector.dll'
 - Open 'DAQConnector.sln'
